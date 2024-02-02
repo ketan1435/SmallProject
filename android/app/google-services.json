@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310617249094",
+    "project_id": "fir-tutorial-63bb7",
+    "storage_bucket": "fir-tutorial-63bb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310617249094:android:0c7101d81d79ab2ce74147",
+        "android_client_info": {
+          "package_name": "com.ketan.luck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU6wr-xlJZ6OZrapdPSai8A9aXXmKff9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
