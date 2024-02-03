@@ -9,7 +9,7 @@ import 'package:luck/Screen/login_screen.dart';
 class AppPages
 {
 
-  static final INITIALROUTE = Routs.SIGNUPROUTE;
+  static final INITIALROUTE = Routs.HOMEROUTE;
 
   static final pages = [
     GetPage(
